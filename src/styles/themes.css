@@ -1,0 +1,19 @@
+[theme="dark"] {
+  --main-background-color: #140f0b;
+
+  --button-primary-first-background-color: #283D3B;
+  --button-primary-second-background-color: #197278;
+
+  --button-primary-first-text-color: white;
+  --button-primary-second-text-color: white;
+}
+
+[theme="light"] {
+  --main-background-color: #fffddf;
+
+  --button-primary-first-background-color: #758ECD;
+  --button-primary-second-background-color: #A0DDFF;
+
+  --button-primary-first-text-color: black;
+  --button-primary-second-text-color: black;
+}
